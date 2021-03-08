@@ -23,7 +23,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  http: ^0.12.0+1
+  share: ^0.6.0+1
+  fluttertoast: ^3.0.4
+  avatar_glow: ^0.1.0
+  bottom_navy_bar: ^3.0.0
+  shared_preferences: ^0.5.2
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
